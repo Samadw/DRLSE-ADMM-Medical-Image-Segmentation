@@ -1,4 +1,5 @@
-Please cite our paper published in journal Signal Processing
+This is Matlab code for our published work https://doi.org/10.1016/j.sigpro.2023.109105
+ Please cite our paper published in journal Signal Processing
 
 Samad Wali, Chunming Li, Mudassar Imran, Abdul Shakoor, Abdul Basit.
 
